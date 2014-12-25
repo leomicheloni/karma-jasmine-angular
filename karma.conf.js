@@ -18,6 +18,7 @@ module.exports = function(config) {
 	  'js/vendor/angular/angular.min.js',
       'js/*.js',
       'js/services/*.js',
+      'js/controllers/*.js',
 	  'js/vendor/**/*.js',
       'test/*.js'
     ],
