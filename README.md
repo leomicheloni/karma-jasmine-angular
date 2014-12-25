@@ -1,0 +1,2 @@
+karma-jasmine-angular
+=====================
