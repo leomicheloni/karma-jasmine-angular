@@ -17,6 +17,7 @@ module.exports = function(config) {
     files: [
 	  'js/vendor/angular/angular.min.js',
       'js/*.js',
+      'js/services/*.js',
 	  'js/vendor/**/*.js',
       'test/*.js'
     ],

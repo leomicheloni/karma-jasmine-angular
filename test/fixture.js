@@ -1,7 +1,7 @@
 describe("calculator test", function () {
 	var calculator;
 	var controller;
-
+	
 	beforeEach(module("myapp"));
 
 	beforeEach(inject(function ($rootScope, $controller, $injector) {
