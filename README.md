@@ -12,5 +12,7 @@ Then type `npm install` to install Karma and Google Chrome launcher (you should 
 
 Now just install bower dependencies typing `bower install` then type `karma start` and you are ready for continuous testing, just modify any .js file in the js folder or in the test folder and watch the test result in the terminal.
 
+[screenshot](screenshot.png)
+
 Enjoy.
 
